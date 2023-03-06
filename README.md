@@ -7,7 +7,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby%20&%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" />
   <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
